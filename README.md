@@ -1,5 +1,5 @@
 # down.py
-A File Downloader made with Python
+A simple File Downloader made with Python.
 
 ## Dependencies 
 ### Python Deps.
@@ -12,4 +12,9 @@ A File Downloader made with Python
 + System   - Included with Python
 + Time     - Included with Python
 
-
+## Usage 
+For Normal Usage
+```` 
+python3 down.py <HTTP Direct Download>
+````
+It will download the file where the script is executed.
